@@ -1,0 +1,23 @@
+/* Logo */
+@font-face {
+  font-family: "Pacifico", cursive;  
+  src: url('../Fonts/Pacifico-Regular.ttf');
+}
+
+ /* H1 and Captions */
+@font-face {
+  font-family: "Josefin Sans", sans-serif;
+  src: url('../Fonts/JosefinSans-Regular.ttf');
+}
+
+/* p, span, a, li and other text */
+@font-face {
+  font-family: "Open Sans", sans-serif;
+  src:  url('../Fonts/OpenSans.ttf');
+}
+
+/* Cornsilk - #FFF8DC - Background
+Peru - #cd853f - light brown
+SaddleBrown - #8b4513 - dark brown
+Brown - #A52A2A - dark red
+Chocolate - #D2691E - bright brown */
